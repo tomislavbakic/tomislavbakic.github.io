@@ -406,7 +406,7 @@ th{
 .desno-pics{
 	float: right;
 	width: 26%;
-	text-alig:center;
+	text-align:center;
 	background-color: rgb(229, 226, 201);
 	border-radius: 25px;
 	padding-right: 25px;
@@ -509,7 +509,7 @@ th{
 /* pevaci*/
 
 .lista-pevaci  {
-	background-image:url("../slike/cekanje.jpg");
+	background-image:url("../img/cekanje.jpg");
 	color: white;
 	font-size: 16pt;
 }
@@ -527,7 +527,7 @@ th{
 #kordinatori{
 	width:100%;
 	height:100%;
-	displey:inline;
+	display:inline;
 	text-align:center;
 }
 .jelena{
@@ -565,3 +565,7 @@ th{
 
 
 
+
+.video-index{	
+	margin-top: 5%;	
+}
